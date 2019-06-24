@@ -1,0 +1,133 @@
+/***************************TAG Selectors**********************/
+body {
+  background: #dae1e7;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-family: Tahoma, Verdana, Segoe, sans-serif
+}
+
+div {
+  background-color: #dae1e7;
+  padding-top: 30px;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 40px;
+  font-family: 'Exo', sans-serif;
+  color: #183661;
+  padding-top: 5px;
+}
+
+h2, h3 {
+  font-size: 1.5rem;
+  margin-top: 0px;
+  font-family: 'Exo', sans-serif;
+  color: #183661;
+  padding-bottom: 10px;
+}
+
+h4 {
+  font-size: 1 rem;
+  margin-top: 0px;
+  font-family: 'Exo', sans-serif;
+  color: #183661;
+  text-align: left;
+}
+
+hr {
+  border: dotted #183661 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 75px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #ffffff;
+  font-family: 'Exo', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color:  #2980b9
+}
+/*******************************CLASS Selectors*************************/
+
+
+.bottom-container {
+  background-color: #183661;
+  margin-top: 30px;
+}
+
+.btn {
+  background: #183661;
+  background-image: -webkit-linear-gradient(top, #183661, #2980b9);
+  background-image: -moz-linear-gradient(top, #183661, #2980b9);
+  background-image: -ms-linear-gradient(top, #183661, #2980b9);
+  background-image: -o-linear-gradient(top, #183661, #2980b9);
+  background-image: linear-gradient(to bottom, #183661, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Exo', sans-serif;
+  ;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #242f36);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #242f36);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #242f36);
+  background-image: -o-linear-gradient(top, #3cb0fd, #242f36);
+  background-image: linear-gradient(to bottom, #3cb0fd, #242f36);
+  text-decoration: none;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.copyright {
+  color: white;
+  padding: 15px 0px;
+}
+
+.desktop-screen {
+  float: right;
+  margin-left: 30px;
+}
+
+.python-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 75%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+}
+
+.p1 {
+  text-align: left;
+}
+
+.p2 {
+  text-align: left;
+  margin-left: 10px;
+}
